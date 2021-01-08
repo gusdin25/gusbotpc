@@ -1,0 +1,13 @@
+{
+  "limitCount": 1000,
+  "memberLimit": 1000,
+  "groupLimit": 1000,
+  "melodickey": "administrator",
+  "vhtearkey": "YOUR_APIKEY",
+  "tobzkey": "YOUR_APIKEY",
+  "mtc": false,
+  "restartState": false,
+  "restartId": "undefined",
+  "banChats": false,
+  "Rest": true
+}
